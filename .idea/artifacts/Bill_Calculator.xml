@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Bill Calculator">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bill_Calculator</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Bill_Calculator.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Bill Calculator" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Bill_Calculator.jar">
+        <element id="module-output" name="Bill Calculator" />
+      </element>
+    </root>
+  </artifact>
+</component>
